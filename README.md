@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋, I'm Nouran Talaat
 
-<!--
-**NouranTalaat/NOURANTALAAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 History Graduate from Ain Shams University
+- 🐍 Python Developer
+- 🤖 Currently learning AI, LLMs, and AI Agents
+- 💡 Passionate about building real-world projects
+- 🌱 Improving my programming skills every day
+- 🚀 Open to Internship Opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- OOP
+- JSON
+- Git
+- GitHub
+- SQL
+- SQLite
+- JavaScript
+- learning Artificial Intelligence with a focus on (LLMs, RAG, AI Agents)
+
+---
+
+## 📂 Featured Project
+
+- 🏢 MY_COMPANY_SYSTEM (Version 1)
+
+---
+
+## 📫 Connect with Me
+
+GitHub: https://github.com/NouranTalaat
+
